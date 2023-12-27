@@ -6,16 +6,19 @@ import Footer from "../Sheard/Footer/Footer";
 const Layout = () => {
     return (
         <div className="font-GoogleFont">
+
             <div className="relative h-full">
-            <div className="absolute  top-0  md:top-10 left-0 bottom-0 right-0 z-20">
             
-            <Navbar></Navbar>
-            
+            <div className="absolute  top-0  md:top-10 left-0 bottom-0 right-0 z-20">            
+            <Navbar></Navbar>            
             </div>
+
             <div className="">
             <Banner></Banner>
             </div>
+
             </div>
+
             <div className="min-h-screen">
             <Outlet></Outlet>
             </div>

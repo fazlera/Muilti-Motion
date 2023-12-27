@@ -24,8 +24,8 @@ const Problem = () => {
                     <h1 className="text-3xl md:text-5xl font-extrabold text-indigo-950">Your Workforce <span className="text-blue-600">Does Not Have the Capacity or <br /> Skills </span> Required to Keep Up.</h1>
                 </div>
 
-                <div className="md:h-96 h-[1200px] bg-blue-900 py-52">
-                    <div className="w-10/12 md:w-7/12 mx-auto absolute top-52 lg:bottom-80 inset-x-0" > 
+                <div className="md:h-96 h-[1350px] bg-blue-900 py-60">
+                    <div className="w-10/12 md:w-7/12 mx-auto absolute top-60 lg:bottom-80 inset-x-0" > 
 
                     <div className=" grid grid-cols-1 lg:grid-cols-3 gap-5  ">
 
